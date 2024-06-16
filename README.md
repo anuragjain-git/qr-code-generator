@@ -14,12 +14,12 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/anuragjain-git/qr-code-generator.git
    ```
 
 2. Navigate to the project directory:
    ```sh
-   cd your-repo-name
+   cd qr-code-generator
    ```
 
 3. Install the dependencies:
